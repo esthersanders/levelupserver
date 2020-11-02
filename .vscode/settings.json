@@ -6,5 +6,6 @@
             "name": "LevelUp",
             "database": "db.sqlite3"
         }
-    ]
+    ],
+    "python.pythonPath": "/Users/esthersanders/.local/share/virtualenvs/levelup-gdDfviBh/bin/python"
 }
