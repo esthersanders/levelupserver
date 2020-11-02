@@ -1,0 +1,35 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "gamer": 1,
+            "game": 1,
+            "day": "2020-10-23",
+            "time": "17:00",
+            "location": "Shelby Bottoms"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "gamer": 1,
+            "game": 2,
+            "day": "2020-10-31",
+            "time": "17:00",
+            "location": "Online"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "gamer": 1,
+            "game": 3,
+            "day": "2020-10-23",
+            "time": "17:00",
+            "location": "Percy Warner"
+        }
+    }
+]
