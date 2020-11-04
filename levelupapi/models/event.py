@@ -11,3 +11,11 @@ class Event(models.Model):
     time = models.TimeField(auto_now=False, auto_now_add=False)
     description = models.CharField(max_length=500)
     game = models.ForeignKey("Game", on_delete=models.CASCADE, related_name="event_game")
+
+    @property
+    def joined(self):
+        return self.__joined
+
+    @joined.setter
+    def joined(self, value):
+        self.__joined = value
