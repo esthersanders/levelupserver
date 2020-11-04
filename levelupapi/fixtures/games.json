@@ -5,6 +5,7 @@
         "fields": {
             "title": "Monopoly",
             "gamer": 1,
+            "maker": "Hasbros",
             "gametype": 1,
             "number_of_players": 4,
             "skill_level": 3
@@ -16,6 +17,7 @@
         "fields": {
             "title": "Settlers of Catan",
             "gamer": 1,
+            "maker": "Kosmos",
             "gametype": 1,
             "number_of_players": 4,
             "skill_level": 4
@@ -26,6 +28,7 @@
         "pk": 3,
         "fields": {
             "title": "Dungeons & Dragons",
+            "maker": "Ernest Gary Gygax",
             "gamer": 1,
             "gametype": 2,
             "number_of_players": 5,
